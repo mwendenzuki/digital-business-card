@@ -10,3 +10,5 @@ npm start
 Head over to https://vitejs.dev/ to learn more about configuring vite
 
 ## Deployed link
+
+https://mwendebusinesscard.netlify.app/
